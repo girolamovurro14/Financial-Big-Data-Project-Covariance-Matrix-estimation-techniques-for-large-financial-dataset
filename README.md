@@ -1,8 +1,11 @@
 # Covariance Matrix estimation techniques for large financial dataset - Financial Big Data (FIN-525)
 
 This repository contains the code and report for the final project of the course Financial Big Data of the Master in Financial Engineering at EPFL. The following files are:
+
 -`Financial_Big_data_Project.ipynb` which contains the code with the implementations of the vairous Covariance Matrix Estimation techniques.
+
 -`Project_report_Big_Data.pdf` which is the report of this project.
+
 Please note that due to the dimension of the files, it was not possible to upload the data that we analyzed (below a short description is provided), however the dataset can be required via email at the following address: girolamovurro@gmail.com
 
 # Project Structure
@@ -34,8 +37,8 @@ The report is tructured with the following sections:
 ## Methods
 
 We first compute the Covariance Estimation naively and then with each of the following methods: 
-- Eigen values clipping, 
-- Rotationally Invariant Estimators (RIE), 
+- Eigen values clipping
+- Rotationally Invariant Estimators (RIE) 
 - Average Oracle (AO) 
 - Bootstrap Average linkage Hierarchical Clustering (BAHC)
 
